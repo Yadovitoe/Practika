@@ -13,9 +13,9 @@
 
 ![image](https://github.com/user-attachments/assets/42aa3f0b-32c1-481c-aea6-c37e0d6f6c0e)
 
-Использую команду flutter doctor в cmd для проверки установки
+Использую команду flutter doctor в терминале для проверки установки
 
-![image](https://github.com/user-attachments/assets/e546ea53-c7d5-4e26-9d02-0200e831f6f1)
+![image](https://github.com/user-attachments/assets/984ed95f-09c7-4131-9952-5e224b84a3b5)
 
 Создаю новый проект с Flatter
 
