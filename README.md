@@ -28,3 +28,10 @@
 В приложении используются различные виды виджетов, классов из второй лекции.
 
 ![image](https://github.com/user-attachments/assets/cdee6aaf-a4c6-4d47-bd87-63e0f072ba71)
+
+## Лекция 3
+Имеется список строк с названиями элементов. При нажатии на кнопку первый элемент списка перемещается в конец. Для каждого элемента списка используется ValueKey, что позволяет Flutter правильно обновлять состояние элементов при их перемещении.
+
+![image](https://github.com/user-attachments/assets/f0b1eae6-32fd-46f1-93ca-5ce847f73c05)
+
+![image](https://github.com/user-attachments/assets/4a8a44f6-6afd-4806-b093-c643b9492902)
