@@ -27,7 +27,11 @@
 Данное приложение является счётчиком кликов по кнопке. Счётчик можно сбрасывать, благодаря кнопке слева.
 В приложении используются различные виды виджетов, классов из второй лекции.
 
-![image](https://github.com/user-attachments/assets/cdee6aaf-a4c6-4d47-bd87-63e0f072ba71)
+![image](https://github.com/user-attachments/assets/52ab9344-b4ab-40ff-b73b-bb92799ddbfe)
+
+![image](https://github.com/user-attachments/assets/d20e3310-501e-4149-9bb9-01f14f20b820)
+
+![image](https://github.com/user-attachments/assets/0a92dd1d-7c7c-4c3d-934c-53134ee1dcad)
 
 ## Лекция 3
 Имеется список строк с названиями элементов. При нажатии на кнопку первый элемент списка перемещается в конец. Для каждого элемента списка используется ValueKey, что позволяет Flutter правильно обновлять состояние элементов при их перемещении.
