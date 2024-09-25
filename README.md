@@ -22,3 +22,9 @@
 ![image](https://github.com/user-attachments/assets/2f4685ce-2d45-4e5a-b902-627e68a8fb8d)
 
 ![image](https://github.com/user-attachments/assets/ee98daa1-a94e-47e2-a54c-b6a9948bd6e2)
+
+##Лекция 2
+Данное приложение является счётчиком кликов по кнопке. Счётчик можно сбрасывать, благодаря кнопке слева.
+В приложении используются различные виды виджетов, классов из второй лекции.
+
+![image](https://github.com/user-attachments/assets/cdee6aaf-a4c6-4d47-bd87-63e0f072ba71)
