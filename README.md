@@ -67,3 +67,14 @@
 ![image](https://github.com/user-attachments/assets/b78b32a8-3c2d-4831-90c3-b3e2cef6062a)
 
 ![image](https://github.com/user-attachments/assets/d1d270ab-ffd1-485a-a31a-2ba4973a0788)
+
+## Лекция 7
+Приложение содержит форму с полями ввода имени и возраста, а также выпадающий список для выбора пола. Если данные не введены, появляется ошибка. При нажатии на кнопку отправки формы отображается SnackBar с сообщением об успешной отправке. Отображается AlertDialog при нажатии на отдельную кнопку. Использован жест для скрытия клавиатуры при нажатии на любое место вне полей ввода.
+
+![image](https://github.com/user-attachments/assets/af61b050-a9ca-4ef5-aaf9-72f0a1e8257a)
+
+![image](https://github.com/user-attachments/assets/416ef17c-b6f3-4d39-8280-ec73e29e62ec)
+
+![image](https://github.com/user-attachments/assets/c7f41fe8-3f76-474e-b4ba-a44d6a391ba2)
+
+![image](https://github.com/user-attachments/assets/a828879a-8e71-4c0a-af19-851abbb820b4)
