@@ -78,3 +78,29 @@
 ![image](https://github.com/user-attachments/assets/c7f41fe8-3f76-474e-b4ba-a44d6a391ba2)
 
 ![image](https://github.com/user-attachments/assets/a828879a-8e71-4c0a-af19-851abbb820b4)
+
+## Лекция 8
+
+![image](https://github.com/user-attachments/assets/58d8fa2a-146a-4d03-aa11-702fb1b79771)
+
+![image](https://github.com/user-attachments/assets/6978463d-b8cd-4de0-b0b9-2d0a8582d212)
+
+![image](https://github.com/user-attachments/assets/85addd20-8917-4f1a-b349-9e9f2d003dfb)
+
+## Лекция 9
+
+![image](https://github.com/user-attachments/assets/873e8a38-88e2-4ba7-9146-b5d96e536c05)
+
+![image](https://github.com/user-attachments/assets/a7f3aeb4-33a9-400a-92e6-d4e08d729a90)
+
+![image](https://github.com/user-attachments/assets/404f6e34-e285-4ca6-b7c6-0c57c1013ecc)
+
+## Лекция 10
+
+![image](https://github.com/user-attachments/assets/b137446c-aa53-429b-b78f-da59026f1193)
+
+![image](https://github.com/user-attachments/assets/808a79f4-fdc0-4e37-8051-7b5f2ac9e2da)
+
+![image](https://github.com/user-attachments/assets/3b67b3ea-d1c7-4d1b-b089-567b7bf26cd5)
+
+## Лекция 11
